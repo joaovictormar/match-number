@@ -11,9 +11,3 @@ O interessante é que o usuário não dará palpites escrevendo, mas sim falando
 
 * JavaScript
   
-## Desenvolvido por:
-
-### João Victor
-
-### Linkedin: https://www.linkedin.com/in/joaovictormar/
-
